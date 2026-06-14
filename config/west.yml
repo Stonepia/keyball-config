@@ -14,5 +14,8 @@ manifest:
     - name: zmk-helpers
       remote: urob
       revision: main
+    - name: zmk-pmw3610
+      remote: inorichi
+      revision: main
   self:
     path: config
